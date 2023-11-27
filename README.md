@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariniparam&label=Profile%20views&color=0e75b6&style=flat" alt="hariniparam" /> </p>
 
+- 🔭 I’m currently pursuing a Master of Science in Theoretical Computer Science.
+
+- 🤓 Enthusiastic about frontend development, passionate about crafting engaging user interfaces and seamless web experiences.
+
 - 🌱 I’m currently learning **reactJS**
 
 - 📫 How to reach me **harinip3007@gmail.com**
