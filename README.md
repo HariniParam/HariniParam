@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harini</h1>
 <h3 align="center">In Pursuit of Passion for Building Engaging Web Adventures, Bit by Bit 💻</h3>
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/HzPtbOKyBoBFsK4hyc/giphy.gif?cid=ecf05e47vfx0i4a58k4oxfs20z9gybn7m2obksfaj2eks24i&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hariniparam&label=Profile%20views&color=0e75b6&style=flat" alt="hariniparam" /> </p>
 
