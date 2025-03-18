@@ -7,8 +7,7 @@
 
 - 🤓 Enthusiastic about frontend development, passionate about crafting engaging user interfaces and seamless web experiences.
 
-- 🌱 What I’m Exploring : **Federated Learning**
-  Experimenting with decentralized machine learning models and their applications in privacy-preserving AI.
+- 🌱 What I’m Exploring : **Federated Learning** and their applications in privacy-preserving.
 
 - 📫 How to reach me **harinip3007@gmail.com**
 
