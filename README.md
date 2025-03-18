@@ -7,7 +7,7 @@
 
 - 🤓 Enthusiastic about frontend development, passionate about crafting engaging user interfaces and seamless web experiences.
 
-- 🌱 I’m currently learning **reactJS**
+- 🌱 What I’m Exploring : **Federated Learning** - Experimenting with decentralized machine learning models and their applications in privacy-preserving AI.
 
 - 📫 How to reach me **harinip3007@gmail.com**
 
